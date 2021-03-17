@@ -358,6 +358,7 @@ template {
 .services {
   width: 60%;
   display: inline-block;
+  vertical-align: top;
 }
 .items {
   margin-top: 68px;
@@ -373,6 +374,7 @@ template {
   font-family: DroidSerif, serif;
   font-size: 40px;
   color: black;
+  margin: 0;
 }
 .item > img {
   width: 47px;
@@ -388,6 +390,7 @@ template {
 .ad {
   width: 39%;
   display: inline-block;
+  vertical-align: top;
 }
 .card {
   text-align: center;
@@ -407,6 +410,8 @@ template {
 }
 
 .card-details {
+  width: 320px;
+  margin: auto;
   font-family: HelveticaNeue;
   font-size: 16px;
   color: #000000;
