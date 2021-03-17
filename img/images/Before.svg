@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Desktop" transform="translate(-179.000000, -50.000000)" fill="#58595B">
+            <g id="Hero" transform="translate(-2.000000, 0.000000)">
+                <g id="Nav">
+                    <g id="Nav-Bar" transform="translate(40.000000, 10.000000)">
+                        <g id="Logo">
+                            <g id="Tagline" transform="translate(141.000000, 25.000000)">
+                                <polygon id="Path-2" points="0 21 6.75 25.75 6.75 15"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
