@@ -353,9 +353,21 @@ template {
 .first-part {
   margin: 75px 125px 75px 125px;
 }
+.items {
+  text-align: center;
+}
+
 .label > p {
   font-family: DroidSerif, serif;
   font-size: 40px;
   line-height: 1.15px;
   color: black;
+}
+.item > img {
+  width: 47px;
+  height: 59px;
+  object-fit: contain;
+}
+.item > P {
+  margin: 0;
 }
